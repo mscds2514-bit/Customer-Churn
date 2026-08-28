@@ -14,3 +14,6 @@ Customer Churn Prediction
 
 \- The prediction can help telecom companies identify high-risk customers and take actions to improve customer retention.
 
+## Model Evaluation
+
+The customer churn model is evaluated using accuracy, precision, recall, and F1-score. These metrics help assess how effectively the model identifies customers who are likely to churn.
