@@ -28,3 +28,6 @@ The project loads the customer churn dataset, preprocesses numerical and categor
 
 The customer churn model uses logistic regression with numerical scaling and categorical feature encoding. The dataset is divided into training and testing sets before model training.
 
+## Dataset
+
+The project uses the Telco Customer Churn dataset for predicting customer churn.
