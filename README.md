@@ -31,3 +31,7 @@ The customer churn model uses logistic regression with numerical scaling and cat
 ## Dataset
 
 The project uses the Telco Customer Churn dataset for predicting customer churn.
+
+## Features
+
+The model uses customer demographic, service, contract, and billing information.
