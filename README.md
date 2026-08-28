@@ -18,6 +18,13 @@ Customer Churn Prediction
 
 The customer churn model is evaluated using accuracy, precision, recall, and F1-score. These metrics help assess how effectively the model identifies customers who are likely to churn.
 
+
 ## Project Workflow
 
 The project loads the customer churn dataset, preprocesses numerical and categorical features, trains a logistic regression model, and evaluates its predictions using classification metrics.
+
+
+## Model Training
+
+The customer churn model uses logistic regression with numerical scaling and categorical feature encoding. The dataset is divided into training and testing sets before model training.
+
